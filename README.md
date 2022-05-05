@@ -9,5 +9,5 @@ sk.kbme@gmail.com
 
 - 💻 Currently working the Center for Advanced Medical Computing and Analysis (CAMCA) at HMS/MGH, where I'm currently working at.
 
-
-[![kimsekeun's github stats](https://github-readme-stats.vercel.app/api?username=kimsekeun&theme=algolia&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/kimsekeun/github-readme-stats)
+![SekeunKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsekeun&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsekeun&layout=compacta&hide=javascript,html,scss,ruby&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
