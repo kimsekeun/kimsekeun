@@ -4,7 +4,7 @@ I am a Research Fellow at at Massachusetts General Hospital and Harvard Medical 
 
 I received the Ph.D. Degree (M.S./Ph.D. integrated course) at Dept. of Biomedical Engineering, Yonsei University.
 
-- 💻 Currently working the Center for Advanced Medical Computing and Analysis (CAMCA) at HMS/MGH.
+💻 Currently working the Center for Advanced Medical Computing and Analysis (CAMCA) at HMS/MGH.
 
 Reach me at: 
 Boston, MA, 02114
