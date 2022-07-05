@@ -8,7 +8,7 @@ I received the Ph.D. Degree (M.S./Ph.D. integrated course) at Dept. of Biomedica
 
 Reach me at: 
 Boston, MA, 02114
-sk.kbme@gmail.com
+skim207@mgh.harvard.edu
 
 
 ![SekeunKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsekeun&show_icons=true&theme=radical)
