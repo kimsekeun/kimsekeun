@@ -12,5 +12,3 @@ skim207@mgh.harvard.edu
 Google scholar https://scholar.google.com/citations?user=tU6pacYAAAAJ&hl=en
 
 HomePage : [https://sites.google.com/view/skim-207/home](https://kimsekeun.github.io/sk.github.io/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsekeun&layout=compacta&hide=javascript,html,scss,ruby&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
