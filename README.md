@@ -13,5 +13,4 @@ Google scholar https://scholar.google.com/citations?user=tU6pacYAAAAJ&hl=en
 
 HomePage : [https://sites.google.com/view/skim-207/home](https://kimsekeun.github.io/sk.github.io/)
 
-![SekeunKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsekeun&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsekeun&layout=compacta&hide=javascript,html,scss,ruby&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
